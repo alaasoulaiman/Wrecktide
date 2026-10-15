@@ -1,0 +1,4 @@
+---,DisplayName,Description,Step,Cost1,Cost2,Cost3,Level1,Level2,Level3,SortOrder
+Timbers,"Timbers","Hull +25 per tier, and a ram bites 15% less",25,150,400,900,3,10,20,0
+Canvas,"Canvas","Max speed +8% per tier",0.08,150,400,900,3,10,20,1
+Hold,"Hold","+2 hold slots per tier",2,150,400,900,3,10,20,2

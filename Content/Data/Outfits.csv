@@ -1,0 +1,11 @@
+---,DisplayName,Description,SkinMesh,SortOrder,RequiredLevel,Price,bStartOwned
+Captain,"Pirate Captain","The coat, the hat, the swagger.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Pirate_Captain_01.SK_Chr_Pirate_Captain_01,0,65,8500,false
+Blackbeard,"Blackbeard","Smoke in the beard, murder in the eyes.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Pirate_blackbeard_01.SK_Chr_Pirate_blackbeard_01,1,55,5600,false
+FirstMate,"First Mate","Keeps the crew in line.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Pirate_First_Mate_01.SK_Chr_Pirate_First_Mate_01,2,26,1300,false
+Seaman,"Seaman","Salt-stained and sure-footed.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Pirate_Seaman_01.SK_Chr_Pirate_Seaman_01,3,5,150,false
+Deckhand,"Deckhand","Ropes, rum and a quick blade.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Pirate_Deckhand_01.SK_Chr_Pirate_Deckhand_01,4,1,0,true
+Corsair,"Corsair","She took the ship; she kept the coat.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Female_Pirate_01.SK_Chr_Female_Pirate_01,5,18,700,false
+Tavernkeeper,"Tavern Keeper","Pours the drinks, settles the fights.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Female_Wench_01.SK_Chr_Female_Wench_01,6,11,350,false
+Gentleman,"Gentleman of Fortune","Fine cloth, finer aim.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Gentleman_01.SK_Chr_Gentleman_01,7,35,2200,false
+Heiress,"Runaway Heiress","Left the mansion, kept the manners.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_Governors_Daughter_01.SK_Chr_Governors_Daughter_01,8,45,3600,false
+Turncoat,"Navy Turncoat","Once wore the King's blue.",/Game/PolygonPirates/Meshes/CharactersUE4Mannequin/SK_Chr_English_Captain_01.SK_Chr_English_Captain_01,9,75,12000,false

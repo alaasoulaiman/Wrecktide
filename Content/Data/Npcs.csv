@@ -1,0 +1,7 @@
+---,DisplayName,PromptName,UnlockFlag,BrushOff,Order
+Bell,"Quartermaster Bell","the quartermaster",None,"",1
+Jerold,"Jerold the Blacksmith","Jerold the blacksmith",Story_Steel,"The bench is spoken for. Bell will send you when it matters.",2
+Marta,"Marta the Tavern Keeper","Marta the tavern keeper",Story_Tavern,"Not now, Captain. I have a tavern to keep and no time for strangers.",3
+Cobb,"Cobb the Harbourmaster","Cobb the harbourmaster",Story_Harbour,"Harbour business is for captains with a ship's business. Come back when you have some.",4
+Ada,"Ada Kell, the Turncoat Sergeant","Ada Kell",Story_Reach,"Keep walking. I wear the wrong coat to be seen talking to a pirate who has not earned the reach.",5
+Oduya,"Mama Oduya, the bog witch",Mama Oduya,Story_Hollow,The mud has not learned your footsteps. Speak to Ada Kell before you bring your troubles to my door.,6

@@ -1,0 +1,7 @@
+---,DisplayName,CombatClass,BaseDamage,RequiredLevel,Price,bPurchasableWithGold
+RustyFlintlock,"Rusty Flintlock",Shooting,8,1,0,false
+WornCutlass,"Worn Cutlass",Melee,14,1,25,true
+BoardingAxe,"Boarding Axe",Melee,20,3,90,true
+HexTalisman,"Hex Talisman",Voodoo,10,6,220,true
+NavyPistol,"Navy Pistol",Shooting,14,6,220,true
+OfficersSabre,"Officer's Sabre",Melee,28,12,520,true

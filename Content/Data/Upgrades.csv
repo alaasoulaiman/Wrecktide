@@ -1,0 +1,6 @@
+---,DisplayName,Description,Effect,Step,Cost1,Cost2,Cost3,Cost4,Cost5,Level1,Level2,Level3,Level4,Level5,SortOrder
+Edge,"Edge","Damage +8% per tier",Edge,0.08,120,260,580,1280,2800,1,8,18,32,50,0
+Balance,"Balance","Attack speed +4% per tier, halved past tier 3",Balance,0.04,120,260,580,1280,2800,1,8,18,32,50,1
+Cruelty,"Cruelty","Critical chance +3 points per tier",Cruelty,0.03,120,260,580,1280,2800,1,8,18,32,50,2
+Brutal,"Brutal","Critical damage +20% per tier",Brutal,0.20,120,260,580,1280,2800,1,8,18,32,50,3
+Bloodletting,"Bloodletting","Lifesteal +1% of damage dealt per tier",Bloodletting,0.01,120,260,580,1280,2800,1,8,18,32,50,4

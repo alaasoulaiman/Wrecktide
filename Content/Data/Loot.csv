@@ -1,0 +1,6 @@
+---,DisplayName,Tier,Value,DropWeight,RequiredLevel
+CoinPouch,"Coin Pouch",1,5,1.0,1
+BottleOfRum,"Bottle of Rum",1,15,0.8,1
+SilverwareBundle,"Silverware Bundle",1,40,0.4,2
+CursedIdol,"Cursed Idol",2,100,0.1,4
+CaptainsLocket,"Captain's Locket",2,150,0.05,5

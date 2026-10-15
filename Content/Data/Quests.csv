@@ -1,0 +1,10 @@
+---,DisplayName,Description,TargetEnemyRow,TargetCount,RewardGold,RewardXP,RewardSkill,bRepeatable,SortOrder,RequireFlag
+FirstBlood,"First Blood","Draw blood on this island and the crew will take you seriously.",None,3,15,40,Melee,false,0,None
+CutthroatBounty,"Cutthroat Bounty","The harbour master pays coin for every cutthroat you leave in the sand.",Cutthroat,5,30,90,Melee,true,1,None
+SkeletonPurge,"Skeleton Purge","Bone deckhands have crawled out of the old wreck. Send them back under.",SkeletonDeckhand,3,45,140,Melee,true,2,None
+RedcoatPatrol,"Redcoat Patrol","A navy patrol is sniffing around the cove. Thin it out before they find the anchorage.",NavyCadet,4,35,100,Melee,true,3,None
+CaptainsHead,"The Captain's Head","The bone captain holds the old fort. Bring back his skull and the whole cove pays.",SkeletonCaptain,1,100,260,Melee,true,4,None
+MarineWatch,"The Marine Watch","Redcoat marines hold the garrison square. Every one you leave on the stones is one fewer musket at the wall.",NavyMarine,5,90,300,Melee,true,5,Story_Reach
+OfficerHunt,"Officer Hunt","The garrison officers keep the muster rolls. Take two of them and the reach forgets who is counted.",NavyGarrisonOfficer,2,140,420,Melee,true,6,Story_Reach
+DrownedWatch,The Drowned Watch,The cultists ring bells for a village that cannot answer. Silence five of them.,BogCultist,5,160,520,Melee,true,7,Story_Hollow
+CurseKeepers,Curse Keepers,Two acolytes guard the drowned paths. Break their watch for Oduya.,HexAcolyte,2,180,600,Melee,true,8,Story_Hollow

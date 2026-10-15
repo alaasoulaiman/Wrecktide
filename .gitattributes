@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.uasset binary
+*.umap binary
+*.png binary
+*.wav binary
+*.ttf binary
+*.ico binary
