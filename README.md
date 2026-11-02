@@ -1,5 +1,11 @@
 # Wrecktide
 
+![Ten seconds from the trailer](docs/trailer.gif)
+
+*From the trailer: the stilt village in the mangroves, a pistol fight on the beach and a wreck chest opened for its gold. Filmed with the POLYGON Pirates pack from Setup step 4 installed; without it the characters are the plain mannequin.*
+
+![Unreal Engine 5.6](https://img.shields.io/badge/Unreal%20Engine-5.6-blue) ![C++](https://img.shields.io/badge/language-C%2B%2B-blue) [![Licence: MIT](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
+
 Wrecktide is a pirate action RPG made with Unreal Engine 5.6. You wash up at Wreck Cove with a broken crew and a name nobody remembers, then fight, sail, trade and upgrade your way from the first stolen handful of gold toward a captain who owns the sea. The world is dark and gritty with a fantastical streak: lantern lit ports, a sea that is a threat rather than a backdrop, and islands such as Gallows Reach and Mangrove Hollow with their own quest chains and bosses.
 
 Trailer: linked from the launch post.
